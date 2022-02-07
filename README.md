@@ -13,3 +13,7 @@ Input arguments: --keyword (string argument to define the query string)
 
 
 --output (output json-file name)
+
+
+
+Here, two kinds of data files which fetches information from wiki and is later processed.
